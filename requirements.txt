@@ -1,5 +1,8 @@
-streamlit
-pandas
-numpy
-scikit-learn
-plotly
+dependencies = [
+    "streamlit",
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "plotly",
+]
+
