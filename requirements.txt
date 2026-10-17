@@ -3,6 +3,5 @@ pandas
 numpy
 scikit-learn
 plotly
-import NearestNeighbors
 scikit-learn
 sklearn.neighbors
