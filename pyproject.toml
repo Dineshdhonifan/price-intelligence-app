@@ -1,11 +1,15 @@
 [project]
-name = "blank-app-template"
+name = "price-intelligence-app"
 version = "0.1.0"
-description = "A simple Streamlit app template."
+description = "Real-Time Price Intelligence and Recommendation System"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.12,<3.14"
 dependencies = [
-    "streamlit>=1.61.1",
+    "streamlit>=1.40.0",
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "plotly",
 ]
 
 [tool.uv]
