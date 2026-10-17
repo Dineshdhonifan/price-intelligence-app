@@ -1,8 +1,5 @@
-dependencies = [
-    "streamlit",
-    "pandas",
-    "numpy",
-    "scikit-learn",
-    "plotly",
-]
-
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
